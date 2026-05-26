@@ -3,7 +3,7 @@
 # CONTRACT LINK:https://stellar.expert/explorer/testnet/contract/CCJXGOGOAOLTHQLU5MJMBSJJRJXOQCEAJ32WNNDSZKPWOS34HABPUCNL
 
 
-![PICTURE](STELLAR.PNG)
+![PICTURE](<img width="1920" height="1080" alt="STELLAR" src="https://github.com/user-attachments/assets/5692a893-c08c-4f5c-b0f9-4a520476cab1" />)
 
 
 
