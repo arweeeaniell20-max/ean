@@ -1,3 +1,12 @@
+# CONTRACT ID
+
+# CONTRACT LINK:https://stellar.expert/explorer/testnet/contract/CCJXGOGOAOLTHQLU5MJMBSJJRJXOQCEAJ32WNNDSZKPWOS34HABPUCNL
+
+
+![PICTURE](STELLAR.PNG)
+
+
+
 # AgroSplit
 
 Instant, transparent harvest payment splits for smallholder farmers.
